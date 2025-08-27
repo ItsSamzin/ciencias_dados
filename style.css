@@ -48,7 +48,7 @@ nav a:hover {
 #graficos-container {
     margin: 5rem;
 }
-footer{
+footer {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -58,7 +58,7 @@ footer{
     height: 3rem;
     margin-top: 2rem;
 }
-span{
+span {
     font-weight: bold;
     color: white;
     background-color: var(--secundary-color);
